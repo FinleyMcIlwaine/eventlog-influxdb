@@ -8,7 +8,7 @@ source-repository-package
 source-repository-package
   type: git
   location: https://github.com/finleymcilwaine/eventlog-live
-  tag: 1bf12ea4060ba0cfe3870b8e3e8af8325a3ff670
+  tag: e12491ec50fae30fb626a5e430360015d4aa9fea
   subdir:
-    ekg-eventlog-influxdb
     ekg-eventlog-core
+    ekg-eventlog-influxdb
