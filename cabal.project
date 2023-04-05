@@ -1,0 +1,14 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/finleymcilwaine/influxdb-haskell
+  tag: 46a4995c57bb09bf6757c105260c1cc1873392af
+
+source-repository-package
+  type: git
+  location: https://github.com/finleymcilwaine/eventlog-live
+  tag: 1bf12ea4060ba0cfe3870b8e3e8af8325a3ff670
+  subdir:
+    ekg-eventlog-influxdb
+    ekg-eventlog-core
